@@ -4,12 +4,12 @@
 ## Dataset Statistics from Previous Assignment: ##
 
 **Here we are going to have a dataset module, where already creation part done as Session 14/15 A Assignment.** <br>
-**1. Bg Images:** 100 
-**2. Fg Images:** 100 
-**3. Fg Masks:** 100
-**4. Bg_Fg Images:** 400000
-**5. Bg_Fg Images Masks:** 400000
-**6. Bg_Fg Images DepthMap:** 400000
+**1. Bg Images:** 100 <br>
+**2. Fg Images:** 100 <br>
+**3. Fg Masks:** 100 <br>
+**4. Bg_Fg Images:** 400000 <br>
+**5. Bg_Fg Images Masks:** 400000 <br>
+**6. Bg_Fg Images DepthMap:** 400000 <br>
 
 
 |**Dataset:**|Link|
@@ -118,12 +118,12 @@ Overall loss is calculated as 2 * loss 1 + loss 2
 
 ## Project Colab Files ##
 
-|File|Link|
-|----|----|
-|**1. Session15b_Model2-sample1.pynb :**|https://colab.research.google.com/drive/1cd-LFUQBL8WHhUR8NLnsNQ-7nHM5_Ph0|
-|**2. Session15b_Model2-sample2.pynb :**|https://colab.research.google.com/drive/1KjChjxxK10Fe8SJEf8GOmWjT0yhqW5es|
-|**3. Session15b_Model2-sample3.pynb :**|https://colab.research.google.com/drive/1QsXOYaglO8OfrURD0bmir3KMzWANIwI0|
-|**4. Session15b_Model2-sample4.pynb :**|https://colab.research.google.com/drive/14QpNLlsikAOBLrj0qltQEyps0gnrO3gd|
+|**S.No**|**File**|**Link**|
+|----|----|----|
+|**1.**|**Session15b_Model2-sample1.pynb :**|https://colab.research.google.com/drive/1cd-LFUQBL8WHhUR8NLnsNQ-7nHM5_Ph0|
+|**2.**|**Session15b_Model2-sample2.pynb :**|https://colab.research.google.com/drive/1KjChjxxK10Fe8SJEf8GOmWjT0yhqW5es|
+|**3.**|**Session15b_Model2-sample3.pynb :**|https://colab.research.google.com/drive/1QsXOYaglO8OfrURD0bmir3KMzWANIwI0|
+|**4.**|**Session15b_Model2-sample4.pynb :**|https://colab.research.google.com/drive/14QpNLlsikAOBLrj0qltQEyps0gnrO3gd|
 
 
 ***Submitted by : G Uday Kiran***
