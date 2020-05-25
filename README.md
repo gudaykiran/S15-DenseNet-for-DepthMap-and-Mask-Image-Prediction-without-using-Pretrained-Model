@@ -4,11 +4,18 @@
 ## Dataset Statistics from Previous Assignment: ##
 
 **Here we are going to have a dataset module, where already creation part done as Session 14/15 A Assignment.** <br>
+**Bg Images:** 100 
 
-**Dataset Colab (pynb):** https://colab.research.google.com/drive/1gVyUY93azAIvZVuts5Pm1J1WG76rYgoA <br>
-**Github link:** https://github.com/gudaykiran/EVA-Session-14-15A/blob/master/Session15A_Dataset_Creation.ipynb <br>
-**DepthMap Creation (pynb) Colab:** https://colab.research.google.com/drive/1BvpvWvAAWcUBBtRws20h5am1DiLQsTG3 <br>
-**Github Link:** https://github.com/gudaykiran/EVA-Session-14-15A/blob/master/Session_15A_Depthmaps_Dataset_Creation.ipynb <br>
+**Fg Images:** 100 
+
+**Fg Masks:** 100
+
+**Bg_Fg Images:** 400000
+
+**Bg_Fg Images Masks:** 400000
+
+**Bg_Fg Images DepthMap:** 400000
+
 
 |**Dataset:**|Link|
 |------------|----|
@@ -111,12 +118,17 @@ Overall loss is calculated as 2 * loss 1 + loss 2
 4.	Predicted Depth Images by obtaining overall loss
 5.	Predicted BgFg Images by obtaining overall loss
 
+## Final Output ##
+![](https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/blob/master/Final%20Output.png)
+
 ## Colab Files ##
 
-1.	**Session15b_Model2-sample1.pynb :** https://colab.research.google.com/drive/1cd-LFUQBL8WHhUR8NLnsNQ-7nHM5_Ph0
-2.	**Session15b_Model2-sample2.ipynb :** https://colab.research.google.com/drive/1KjChjxxK10Fe8SJEf8GOmWjT0yhqW5es
-3.	**Session15b_Model2-sample3.pynb :** https://colab.research.google.com/drive/1QsXOYaglO8OfrURD0bmir3KMzWANIwI0
-4.	**Session15b_Model2-sample4.pynb :** https://colab.research.google.com/drive/14QpNLlsikAOBLrj0qltQEyps0gnrO3gd
+|File|Link|
+|----|----|
+|**1. Session15b_Model2-sample1.pynb :**|https://colab.research.google.com/drive/1cd-LFUQBL8WHhUR8NLnsNQ-7nHM5_Ph0|
+|**2. Session15b_Model2-sample2.pynb :**|https://colab.research.google.com/drive/1KjChjxxK10Fe8SJEf8GOmWjT0yhqW5es|
+|**3. Session15b_Model2-sample3.pynb :**|https://colab.research.google.com/drive/1QsXOYaglO8OfrURD0bmir3KMzWANIwI0|
+|**4. Session15b_Model2-sample4.pynb :**|https://colab.research.google.com/drive/14QpNLlsikAOBLrj0qltQEyps0gnrO3gd|
 
 
 ***Submitted by : G Uday Kiran***
