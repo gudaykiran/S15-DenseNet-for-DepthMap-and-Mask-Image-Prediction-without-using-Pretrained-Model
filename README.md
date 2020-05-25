@@ -13,9 +13,11 @@
 
 ## Dataset and Data Loaders ##
 **Dataset:** Here we will construct a Dataset class which takes input of all 4 images, where to the Network Passing Background and Foreground- Background images as Input to Convolutional Blocks. Target images are Masks and Depth Images. <br>
+
 **Transformations:** We will apply some scale transformations before loading the data.
 As both the inputs are of 224 * 224 size, we will resize it as 128 * 128 or 64 * 64
 -Grayscale Transformations has been done. <br>
+
 **Dataloaders:** Here we will fetch images in batches apply transforms to them & then returns dataloders for train and validation phases.
 
 **Dataset Utilities:** https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/tree/master/utils <br>
@@ -25,7 +27,8 @@ As both the inputs are of 224 * 224 size, we will resize it as 128 * 128 or 64 *
 
 
 **Architecture Description**  <br>
-![Decription] (https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/blob/master/DNN%20Description.png)
+![Description](https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/blob/master/DNN%20Description.png) 
+
 **DenseNet Py  File:** https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/blob/master/DNN%20Model/net.py
 
 **Number of Parameters : 1977280**
