@@ -4,17 +4,12 @@
 ## Dataset Statistics from Previous Assignment: ##
 
 **Here we are going to have a dataset module, where already creation part done as Session 14/15 A Assignment.** <br>
-**Bg Images:** 100 
-
-**Fg Images:** 100 
-
-**Fg Masks:** 100
-
-**Bg_Fg Images:** 400000
-
-**Bg_Fg Images Masks:** 400000
-
-**Bg_Fg Images DepthMap:** 400000
+**1. Bg Images:** 100 
+**2. Fg Images:** 100 
+**3. Fg Masks:** 100
+**4. Bg_Fg Images:** 400000
+**5. Bg_Fg Images Masks:** 400000
+**6. Bg_Fg Images DepthMap:** 400000
 
 
 |**Dataset:**|Link|
@@ -121,7 +116,7 @@ Overall loss is calculated as 2 * loss 1 + loss 2
 ## Final Output ##
 ![](https://github.com/gudaykiran/S15-DenseNet-for-DepthMap-and-Mask-Image-Prediction-without-using-Pretrained-Model/blob/master/Final%20Output.png)
 
-## Colab Files ##
+## Project Colab Files ##
 
 |File|Link|
 |----|----|
